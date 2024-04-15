@@ -58,4 +58,4 @@ I'm Duy Do a Full Stack Web Developer and Design UI/UX on [Dribbble](https://dri
 
 ## Github Stats
 
-![Duydo's github stats](https://github-readme-stats.vercel.app/api?username=duyda1402&show_icons=true&theme=tokyonight&hide=contribs,prs)
+![Duydo's github stats](https://github-readme-stats.vercel.app/api?username=duyda1402&show_icons=true&theme=tokyonight)
